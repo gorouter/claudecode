@@ -4,15 +4,15 @@ ClaudeCode is an open source Anthropic Claude Code with Rust implementation. It 
 
 ![View Count](https://komarev.com/ghpvc/?username=soongenwong&label=Total%20views&color=ffa500&style=for-the-badge)
 
-<p align="center">
-  <a href="https://star-history.com/#soongenwong/claudecode&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=soongenwong/claudecode&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=soongenwong/claudecode&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=soongenwong/claudecode&type=Date" width="600" />
-    </picture>
-  </a>
-</p>
+## Star History
+
+<a href="https://www.star-history.com/?repos=soongenwong%2Fclaudecode&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=soongenwong/claudecode&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=soongenwong/claudecode&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=soongenwong/claudecode&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## Start here
 
